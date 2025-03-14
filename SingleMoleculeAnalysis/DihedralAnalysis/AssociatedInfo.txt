@@ -1,0 +1,1 @@
+This folder contains all the Dihedral Scripts used to calculate the dihedral angles of the molecule within the trajectory.
