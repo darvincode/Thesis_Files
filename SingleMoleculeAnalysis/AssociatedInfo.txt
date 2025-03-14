@@ -1,1 +1,0 @@
-This folder contains both .pdb and .mol files required to import the molecule into the simulation. 
