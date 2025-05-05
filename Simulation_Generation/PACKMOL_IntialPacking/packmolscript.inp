@@ -1,0 +1,13 @@
+#
+# packmol example
+#
+tolerance 2.0
+filetype pdb
+output test.pdb
+structure darvin_mol_1_set_ang.pdb
+  number 100 
+  inside box 0. 0. 0. 60. 60. 60. 
+end structure
+
+
+
