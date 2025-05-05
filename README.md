@@ -8,4 +8,6 @@ Kugupu | Micaela Matta, Richard Gowers: https://github.com/kugupu/kugupu/tree/ma
 
 QCFlow | Tristan Stephens-Jones, Micaela Matta: https://github.com/matta-research-group/QCflow
 
+Notes:
 
+The associated pdb and dcd files may not be attached, this repository is to show the method used rather than to replicate the whole results.
