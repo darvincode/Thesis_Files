@@ -12,4 +12,4 @@ Notes:
 
 The associated pdb and dcd files may not be attached, this repository is to show the method used rather than to replicate the whole results.
 
-If any of the following recipes for the intended applications do not work please feel free to raise an issue 
+If any of the following recipes for the intended applications do not work please feel free to raise an issue. 
